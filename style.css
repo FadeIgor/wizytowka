@@ -26,6 +26,12 @@ section {
     margin: 10px;
 }
 
+img:hover{
+    width: 175px;
+    height: 175px;
+}
+
+
 h2{
     position: relative;
     display: inline-block;
